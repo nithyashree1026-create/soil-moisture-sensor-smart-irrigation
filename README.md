@@ -40,3 +40,7 @@ Using ESP32 Wi-Fi connectivity, soil data can be monitored remotely.
 * Calibrate moisture thresholds
 * Use corrosion-resistant probes
 * Maintain stable sensor placement
+## ⚠️ Limitations
+* Probe corrosion over time
+* Soil mineral variations affect readings
+* Requires periodic calibration
