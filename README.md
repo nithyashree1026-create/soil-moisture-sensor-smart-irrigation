@@ -30,3 +30,7 @@ ESP32 reads analog moisture values using ADC pins.
 ## 🌐 IoT Integration
 Using ESP32 Wi-Fi connectivity, soil data can be monitored remotely.
 ### 🔹 Applications:
+* Smart irrigation systems
+* Precision agriculture
+* Greenhouse monitoring
+* Automated farming systems
