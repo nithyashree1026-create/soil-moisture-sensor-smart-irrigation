@@ -19,3 +19,4 @@ The probes are inserted into soil to measure conductivity levels.
 ### 🔹 Analog Output:
 Provides continuous moisture values.
 ### 🔹 Digital Output:
+Uses threshold comparison for ON/OFF detection.
