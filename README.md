@@ -20,3 +20,4 @@ The probes are inserted into soil to measure conductivity levels.
 Provides continuous moisture values.
 ### 🔹 Digital Output:
 Uses threshold comparison for ON/OFF detection.
+## 📡 ESP32 Interfacing
