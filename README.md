@@ -49,3 +49,5 @@ Using ESP32 Wi-Fi connectivity, soil data can be monitored remotely.
 * Smart farming automation
 * Environmental monitoring systems
 * Water conservation systems
+## 🔮 Future Scope
+Integration with cloud analytics and AI systems can enable predictive irrigation and efficient water resource management.
