@@ -21,3 +21,5 @@ Provides continuous moisture values.
 ### 🔹 Digital Output:
 Uses threshold comparison for ON/OFF detection.
 ## 📡 ESP32 Interfacing
+ESP32 reads analog moisture values using ADC pins.
+### 🔹 Working Flow:
