@@ -44,3 +44,8 @@ Using ESP32 Wi-Fi connectivity, soil data can be monitored remotely.
 * Probe corrosion over time
 * Soil mineral variations affect readings
 * Requires periodic calibration
+## 🚀 Advanced Applications
+* AI-based irrigation prediction
+* Smart farming automation
+* Environmental monitoring systems
+* Water conservation systems
