@@ -27,3 +27,4 @@ ESP32 reads analog moisture values using ADC pins.
 * Voltage level changes
 * ESP32 reads ADC value
 * Irrigation logic is executed
+## 🌐 IoT Integration
