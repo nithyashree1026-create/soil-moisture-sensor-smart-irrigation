@@ -14,3 +14,4 @@ A typical soil moisture sensor contains:
 * Conductive probe electrodes
 * Signal conditioning module
 * Analog and digital outputs
+The probes are inserted into soil to measure conductivity levels.
