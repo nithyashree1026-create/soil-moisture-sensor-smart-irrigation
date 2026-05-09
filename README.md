@@ -17,3 +17,4 @@ A typical soil moisture sensor contains:
 The probes are inserted into soil to measure conductivity levels.
 ## 🔌 Output Characteristics
 ### 🔹 Analog Output:
+Provides continuous moisture values.
