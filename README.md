@@ -35,3 +35,8 @@ Using ESP32 Wi-Fi connectivity, soil data can be monitored remotely.
 * Greenhouse monitoring
 * Automated farming systems
 ## 🧩 Design Considerations
+### 🔹 Important Points:
+* Avoid continuous probe exposure
+* Calibrate moisture thresholds
+* Use corrosion-resistant probes
+* Maintain stable sensor placement
