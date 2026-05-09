@@ -4,3 +4,4 @@ Soil moisture sensors are used to measure the water content present in soil. The
 This repository explores the sensing principle, electrical behavior, ESP32 interfacing, and IoT integration of soil moisture sensors.
 ## 🧠 Working Principle
 Most soil moisture sensors operate based on electrical conductivity.
+Wet soil conducts electricity better than dry soil due to the presence of water and dissolved minerals.
