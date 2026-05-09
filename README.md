@@ -23,3 +23,7 @@ Uses threshold comparison for ON/OFF detection.
 ## 📡 ESP32 Interfacing
 ESP32 reads analog moisture values using ADC pins.
 ### 🔹 Working Flow:
+* Sensor measures soil conductivity
+* Voltage level changes
+* ESP32 reads ADC value
+* Irrigation logic is executed
