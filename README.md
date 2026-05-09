@@ -34,3 +34,4 @@ Using ESP32 Wi-Fi connectivity, soil data can be monitored remotely.
 * Precision agriculture
 * Greenhouse monitoring
 * Automated farming systems
+## 🧩 Design Considerations
