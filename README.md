@@ -8,3 +8,4 @@ Wet soil conducts electricity better than dry soil due to the presence of water 
 ### 🔹 Sensor Behavior:
 * Wet soil → Lower resistance
 * Dry soil → Higher resistance
+The sensor converts this variation into voltage changes that can be processed by ESP32.
