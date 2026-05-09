@@ -11,3 +11,6 @@ Wet soil conducts electricity better than dry soil due to the presence of water 
 The sensor converts this variation into voltage changes that can be processed by ESP32.
 ## ⚙️ Sensor Structure
 A typical soil moisture sensor contains:
+* Conductive probe electrodes
+* Signal conditioning module
+* Analog and digital outputs
