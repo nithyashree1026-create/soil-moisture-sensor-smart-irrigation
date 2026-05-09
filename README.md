@@ -6,3 +6,5 @@ This repository explores the sensing principle, electrical behavior, ESP32 inter
 Most soil moisture sensors operate based on electrical conductivity.
 Wet soil conducts electricity better than dry soil due to the presence of water and dissolved minerals.
 ### 🔹 Sensor Behavior:
+* Wet soil → Lower resistance
+* Dry soil → Higher resistance
